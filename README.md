@@ -1,2 +1,19 @@
-# Video-Game-Sales-Analysis
-This repository contains the final project for Data Analytics, focusing on cleaning, analyzing, and visualizing video game sales data. It includes:  Raw Dataset (unclean data) Cleaned Dataset (after preprocessing) Python Script with complete analysis and visualizations README with project details and instructions .
+# Data Analytics Final Project
+Project Title
+Video Game Sales Analysis
+
+Description
+This project analyzes a dataset of video game sales to uncover trends, patterns, and insights. It includes:
+
+Data Cleaning: Handling missing values, duplicates, and formatting.
+Exploratory Data Analysis (EDA): Visualizing sales trends, genre popularity, and regional performance.
+Insights: Identifying factors influencing game sales.
+
+
+Dataset
+
+Source: Kaggle Video Game Sales Dataset
+Files Included:
+
+data/raw_dataset.csv → Original unclean dataset
+data/cleaned_dataset.csv → Cleaned dataset after preprocessing
